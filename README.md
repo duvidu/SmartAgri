@@ -1,0 +1,2 @@
+# SmartAgri
+ mern stack
